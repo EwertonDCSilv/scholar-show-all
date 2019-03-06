@@ -6,7 +6,7 @@
 
 ##### Após a instalação:
 
-**1 - Baixe o arquivo Bolsistas-CNPq.js**
+**1 - Baixe o arquivo main.js**
 <br>
 **2 - Acesse o menu de configurações**
 **![p1](https://user-images.githubusercontent.com/28262885/42700810-3be6f374-869b-11e8-9073-ebb06d5a2518.png)
@@ -32,7 +32,7 @@
 **8 - Remova o script padrão**
 **![p8](https://user-images.githubusercontent.com/28262885/42700807-3b89c9c4-869b-11e8-8a50-df828fda1f67.png)
 <br>
-**9 - Cole o código do arquivo https://github.com/EwertonDCSilv/bolsisttas_Cnpq/blob/master/Bolsistas-CNPq.js**
+**9 - Cole o código do arquivo https://github.com/EwertonDCSilv/scholar-show-all/blob/master/main.js**
 **![p9](https://user-images.githubusercontent.com/28262885/42700808-3ba79cec-869b-11e8-83ac-e94d27aa20ec.png)
 <br>
 **10 - Verifique se a opção "Show all articles - Google Scholar" foi criada**
